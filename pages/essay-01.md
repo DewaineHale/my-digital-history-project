@@ -10,7 +10,7 @@ permalink: /essay-01.html
 
 ## Introduction
 
-My project will be on international trade over the century. I think this subject is very interesting. I look forward to learning how international trade affects the global economy.
+My project will be on *international trade over the century*. I think this subject is very interesting. I look forward to learning how international trade affects the global economy.
 
 Leave an empty line between headings and paragraphs.
 
