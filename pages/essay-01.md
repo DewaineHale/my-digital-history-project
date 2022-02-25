@@ -17,6 +17,7 @@ My project will be on *international trade over the century*. I think this subje
 1. Canada
 2. USA
 3. France
+
 Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
