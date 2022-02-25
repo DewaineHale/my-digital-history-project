@@ -10,8 +10,13 @@ permalink: /essay-01.html
 
 ## Introduction
 
-My project will be on *international trade over the century*. I think this subject is very interesting. I look forward to learning how international trade affects the global economy.
+My project will be on *international trade over the century*. I think this subject is very **interesting**. I look forward to learning how international trade affects the global economy.
 
+[7 Reasons For International Trade](https://ttcwetranslate.com/7-reasons-for-international-trade/)
+
+1. Canada
+2. USA
+3. France
 Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
