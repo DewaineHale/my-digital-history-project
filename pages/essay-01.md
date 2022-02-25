@@ -10,8 +10,7 @@ permalink: /essay-01.html
 
 ## Introduction
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
+My project will be on international trade over the century. I think this subject is very interesting. I look forward to learning how international trade affects the global economy.
 
 Leave an empty line between headings and paragraphs.
 
