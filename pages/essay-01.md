@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # My New Essay Title
 {% include feature/line-chart.html data="party-platforms-20th-century-democratic" topic="Reform" %}
@@ -19,6 +19,8 @@ My project will be on *international trade over the century*. I think this subje
 
 [GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
 I look forward to learning how international trade affects the global economy.
+
+### My First Subheading
 
 [7 Reasons For International Trade](https://ttcwetranslate.com/7-reasons-for-international-trade/)
 
