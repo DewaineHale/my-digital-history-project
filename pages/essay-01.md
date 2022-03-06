@@ -15,7 +15,7 @@ This is interesting because reform history in 2000. From the graph there is a la
 My project will be on *international trade over the century*. I think this subject is very **interesting**.[^1] 
 
 {% include feature/image.html filename="Tariff Cirrus.png" alt="Tariff Cirrus" %}
-
+{% include feature/image.html filename="Tariff trend search.png" alt="Tariff trend search" %}
 
 ---
 
