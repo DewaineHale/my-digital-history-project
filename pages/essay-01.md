@@ -12,7 +12,7 @@ This is interesting because reform history in 2000. From the graph there is a la
 
 ## Introduction
 
-My project will be on *international trade over the century*. I think this subject is very **interesting**. I look forward to learning how international trade affects the global economy.
+My project will be on *international trade over the century*. I think this subject is very **interesting**.[^1] I look forward to learning how international trade affects the global economy.
 
 [7 Reasons For International Trade](https://ttcwetranslate.com/7-reasons-for-international-trade/)
 
@@ -67,4 +67,6 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 ## Notes
 
-[^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
+[^3]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
+
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
