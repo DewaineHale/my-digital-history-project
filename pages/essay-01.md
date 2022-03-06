@@ -12,7 +12,13 @@ This is interesting because reform history in 2000. From the graph there is a la
 
 ## Introduction
 
-My project will be on *international trade over the century*. I think this subject is very **interesting**.[^1] I look forward to learning how international trade affects the global economy.
+My project will be on *international trade over the century*. I think this subject is very **interesting**.[^1] 
+
+
+---
+
+[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
+I look forward to learning how international trade affects the global economy.
 
 [7 Reasons For International Trade](https://ttcwetranslate.com/7-reasons-for-international-trade/)
 
