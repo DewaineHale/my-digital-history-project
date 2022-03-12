@@ -33,6 +33,12 @@ Francine McKenzie, in the book “Planning In Cold War Europe” (2018), states 
 
 In conclusion, international trade continues to be an important topic even after the 20th century. From the history of tariffs in the United States to the WWII era and the establishment of the 1947 GATT, international trade has continually evolved and remains a relevant aspect in our daily lives. Although we no longer face the growing threat of communism that sprung from the cold war era, it’s important that we continue to strengthen our global influence and create free trade through multilateral trade agreements. By doing this, we not only develop stronger relationships with our allies around the world, we also become better equipped to handle crises at home and abroad.
 
+## Notes
+
+[^1]: Tyler Halloran, A Brief History of Tariffs in the United States and the Dangers of their Use Today (Fordham Journal of Corporate and Financial Law, 2019).
+
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
+
 
 
 
@@ -82,11 +88,6 @@ Include a pdf:
 
 More documentation on how to write your essay in Markdown--as well as how to include images, pdfs, and topic visualizations--can be found at <https://learn-static.github.io/hist-320/topic-modeling.html>.
 
-## Notes
-
-[^3]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
-
-[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
 
 
 ### My First Subheading
