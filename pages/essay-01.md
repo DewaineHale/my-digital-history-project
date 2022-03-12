@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;Heading One;Heading Two;Heading Three;Conclusion;Notes" %}
 
 # The Historical Significance of International Trade
 
@@ -34,7 +34,7 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 ## Heading Two
 
-### Heading Three, etc.
+### Heading Three
 
 
 {% include feature/line-chart.html data="party-platforms-20th-century-democratic" topic="Reform" %}
