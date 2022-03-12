@@ -37,6 +37,7 @@ In conclusion, international trade continues to be an important topic even after
 
 [^1]:Tyler Halloran, *A Brief History of Tariffs in the United States and the Dangers of their Use Today* (Fordham Journal of Corporate and Financial Law, 2019)
 
+[^2]:David A. Lake, *Power, Protection, and Free Trade* (New York:  Cornell University Press, 1988)
 
 
 
