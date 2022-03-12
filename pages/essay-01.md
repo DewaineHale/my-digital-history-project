@@ -35,6 +35,13 @@ Francine McKenzie, in the book “Planning In Cold War Europe” (2018), states 
 
 ## Conclusion
 
+In conclusion, international trade continues to be an important topic even after the 20th century. From the history of tariffs in the United States to the WWII era and the establishment of the 1947 GATT, international trade has continually evolved and remains a relevant aspect in our daily lives. Although we no longer face the growing threat of communism that sprung from the cold war era, it’s important that we continue to strengthen our global influence and create free trade through multilateral trade agreements. By doing this, we not only develop stronger relationships with our allies around the world, we also become better equipped to handle crises at home and abroad.
+
+
+
+
+
+
 {% include feature/line-chart.html data="party-platforms-20th-century-democratic" topic="Reform" %}
 This is interesting because reform history in 2000. From the graph there is a large increase during this time.
 
