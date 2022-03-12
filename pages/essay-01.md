@@ -37,7 +37,7 @@ In conclusion, international trade continues to be an important topic even after
 
 [^1]: Tyler Halloran, A Brief History of Tariffs in the United States and the Dangers of their Use Today (Fordham Journal of Corporate and Financial Law, 2019).
 
-[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
+[^5]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
 
 
 
