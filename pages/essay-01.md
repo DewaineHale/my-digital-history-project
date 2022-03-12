@@ -90,7 +90,7 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 
 
-### My First Subheading
+
 
 [7 Reasons For International Trade](https://ttcwetranslate.com/7-reasons-for-international-trade/)
 
@@ -102,7 +102,7 @@ Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
 
-Citing your work is important! 
+
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
