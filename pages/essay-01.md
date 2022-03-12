@@ -104,5 +104,4 @@ Font can be *Italic* or **Bold**.
 
 
 
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
