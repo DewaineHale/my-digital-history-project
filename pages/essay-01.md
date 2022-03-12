@@ -27,7 +27,7 @@ The purpose of the Smoot-Hawley Tariff Act was to protect American industries an
 
 ## WW2 era and the establishment of the 1947 GATT
 
-Francine McKenzie, in the book “Planning In Cold War Europe” (2018), states that the purpose of the GATT was to promote trade liberalization by lowering tariffs. As part of the agreement, each member of the GATT was expected to conduct equal trade with other participating countries thus removing trade discrimination. In addition, the GATT significantly reduced tariffs on industrial goods from forty percent in 1947 to less than five percent by 1993. The GATT also played an important role during the Cold war, which began after WWII. Bruce W.  Wilkinson, in the article “General Agreements on Tariffs and Trade (GATT)”,(2006) states that this agreement had “helped the U.S.-led capitalist west spread its influence by liberalizing trade through multilateral trade agreements.” (Wilkerson). Creating these trade agreements allowed western nations to strengthen their global influence as they were facing the growing threat of communism during the cold war. After the Cold War, the GATT transitioned into a global organization known as the World Trade Organization (WTO) which came into effect on January 1st, 1995. As of October 2020, 164 countries were members of the WTO and 23 countries were in the process of joining.
+Francine McKenzie, in the book “Planning In Cold War Europe” (2018)[^3], states that the purpose of the GATT was to promote trade liberalization by lowering tariffs. As part of the agreement, each member of the GATT was expected to conduct equal trade with other participating countries thus removing trade discrimination. In addition, the GATT significantly reduced tariffs on industrial goods from forty percent in 1947 to less than five percent by 1993. The GATT also played an important role during the Cold war, which began after WWII. Bruce W.  Wilkinson, in the article “General Agreements on Tariffs and Trade (GATT)”,(2006) states that this agreement had “helped the U.S.-led capitalist west spread its influence by liberalizing trade through multilateral trade agreements.” (Wilkerson). Creating these trade agreements allowed western nations to strengthen their global influence as they were facing the growing threat of communism during the cold war. After the Cold War, the GATT transitioned into a global organization known as the World Trade Organization (WTO) which came into effect on January 1st, 1995. As of October 2020, 164 countries were members of the WTO and 23 countries were in the process of joining.
 
 ## Conclusion
 
@@ -39,5 +39,5 @@ In conclusion, international trade continues to be an important topic even after
 
 [^2]:David A. Lake, *Power, Protection, and Free Trade* (New York:  Cornell University Press, 1988)
 
-
+[^3]:Francine McKenzie, *Planning in Cold War Europe* (Berlin: De Gruyter Publishing, 2018)
 
