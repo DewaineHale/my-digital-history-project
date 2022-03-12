@@ -48,7 +48,7 @@ Tyler Halloran, A Brief History of Tariffs in the United States and the Dangers 
 This is interesting because reform history in 2000. From the graph there is a large increase during this time.
 
 
-My project will be on *international trade over the century*. I think this subject is very **interesting**.[^1] 
+My project will be on *international trade over the century*. I think this subject is very **interesting**. 
 
 {% include feature/image.html filename="Tariff Cirrus.png" alt="Tariff Cirrus" %}
 {% include feature/image.html filename="Tariff trend search.png" alt="Tariff trend search" %}
