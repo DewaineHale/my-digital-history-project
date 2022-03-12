@@ -14,21 +14,6 @@ permalink: /essay-01.html
 Throughout history, international trade has always been a relevant matter. This was very apparent during the 20th century because there were many significant events that took place which began to shape American’s perspective on international trade. The focus on international trade began between 1895 and 1915 when the United States transformed from an isolationist country into a world empire. This transformation resulted in the U.S having an active influence on the affairs of countries located overseas. To understand the relevance of international trade it is useful to explore (1) the significant history of tariffs in the United States, (2) The Great Depression and resulting Smoot-Hawley Tariff Act, and (3) WW2 era and the establishment of the 1947 GATT.
 
 
-### My First Subheading
-
-[7 Reasons For International Trade](https://ttcwetranslate.com/7-reasons-for-international-trade/)
-
-1. Canada
-2. USA
-3. France
-
-Leave an empty line between headings and paragraphs.
-
-Font can be *Italic* or **Bold**.
-
-Citing your work is important! [^1]
-
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
 # Heading One
 
@@ -87,3 +72,21 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 [^3]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
 
 [^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
+
+
+### My First Subheading
+
+[7 Reasons For International Trade](https://ttcwetranslate.com/7-reasons-for-international-trade/)
+
+1. Canada
+2. USA
+3. France
+
+Leave an empty line between headings and paragraphs.
+
+Font can be *Italic* or **Bold**.
+
+Citing your work is important! [^1]
+
+Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
+
