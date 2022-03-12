@@ -29,8 +29,11 @@ Before exploring the effects that the Smoot-Hawley Tariff Act had on internation
 The purpose of the Smoot-Hawley Tariff Act was to protect American industries and farmers by raising import duties. David A. Lake, in the book “Power, Protection, and Free Trade” (1988) [^2], indicates that even though the Smoot-Hawley Tariff Act contained the highest duty rates in American history, these rates were typically evaluated on a small range of goods and services. As a result, the duty levels on all imports were lower in the Smoot-Hawley Tariff Act compared to previous tariffs that were passed during earlier phases of American trade strategy. Four years after the Smoot-Hawley Tariff Act was created, an additional Reciprocal Trade Agreements Act was created which resulted in significant policy change by giving the president more power in tariff making authority. This act reversed the projection towards higher tariffs and worked to promoted cooperation with foreign governments and American exports. This pattern for tariff reduction was the precursor to the 1947 General Agreements on Tariffs and Trade (GATT), an international trade agreement signed by twenty-three countries, including Canada.
 
 
-### Heading Three
+## WW2 era and the establishment of the 1947 GATT
 
+Francine McKenzie, in the book “Planning In Cold War Europe” (2018), states that the purpose of the GATT was to promote trade liberalization by lowering tariffs. As part of the agreement, each member of the GATT was expected to conduct equal trade with other participating countries thus removing trade discrimination. In addition, the GATT significantly reduced tariffs on industrial goods from forty percent in 1947 to less than five percent by 1993. The GATT also played an important role during the Cold war, which began after WWII. Bruce W.  Wilkinson, in the article “General Agreements on Tariffs and Trade (GATT)”,(2006) states that this agreement had “helped the U.S.-led capitalist west spread its influence by liberalizing trade through multilateral trade agreements.” (Wilkerson). Creating these trade agreements allowed western nations to strengthen their global influence as they were facing the growing threat of communism during the cold war. After the Cold War, the GATT transitioned into a global organization known as the World Trade Organization (WTO) which came into effect on January 1st, 1995. As of October 2020, 164 countries were members of the WTO and 23 countries were in the process of joining.
+
+## Conclusion
 
 {% include feature/line-chart.html data="party-platforms-20th-century-democratic" topic="Reform" %}
 This is interesting because reform history in 2000. From the graph there is a large increase during this time.
@@ -73,7 +76,6 @@ Include a pdf:
 
 {% include feature/pdf.html filename="demo_002.pdf" caption="Historic postcard" width="50" %}
 
-## Conclusion
 
 More documentation on how to write your essay in Markdown--as well as how to include images, pdfs, and topic visualizations--can be found at <https://learn-static.github.io/hist-320/topic-modeling.html>.
 
