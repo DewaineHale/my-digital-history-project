@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
-# My New Essay Title
+# The Historical Significance of International Trade
 {% include feature/line-chart.html data="party-platforms-20th-century-democratic" topic="Reform" %}
 This is interesting because reform history in 2000. From the graph there is a large increase during this time.
 
