@@ -70,11 +70,11 @@ In the newspaper article titled “Robber Tariff Passed By Senate”, the writer
 In the Nogales International Editorial published August 13, 1932, the editorial titled “Smoot-Hawley Tariff Act”, focuses on the Imperial Conference at Ottawa, which was the British Empire Economic Conference to discuss The Great Depression and associated trade restrictions. In the article it is implied that the concept of “imperial preference” will be enacted and will result in discrimination against American manufacturers exports of essential raw materials such as coal, steel and tobacco, which would further reduce the amount of foreign commerce and any increase in the future will be lost. This article is one example of the divide between Republican and Democrat parties over international trade policy. Republicans in general favored continued high import tariffs since they proposed that this would help to save American manufacturers. Democrats argued that higher tariffs were not the right solution and that America should instead try to work cooperatively with other countries for international trade.
 
 
-
-
-As a result of the Smoot-Hawley Tariff Act, many countries enacted their own restrictive tariffs for imports, which worsened the Great Depression.  Four years after the passing of the Smoot-Hawley Tariff Act, the **Reciprocal Trade Agreements Act** was created to put into place significant policy change by giving the president more power in tariff making authority and reduce congressional control of trade policy. This act reversed the projection towards higher tariffs and worked to promoted cooperation with foreign governments and American exports. 
+As a result of the Smoot-Hawley Tariff Act, many countries enacted their own restrictive tariffs for imports, which worsened the Great Depression.  Four years after the passing of the Smoot-Hawley Tariff Act, the **Reciprocal Trade Agreements Act** was created to try and alleviate the problem.
 
 ## Reciprocal Trade Agreements Act
+
+The Reciprocal Trade Agreement Act (RTAA) was enacted in 1934 as an amendment to the 1930 Smoot-Hawley Tariff Act by President Franklin Roosevelt and resulted in significant policy change by giving the president more power in tariff making authority and reducing congressional control of trade policy to reduce the influence of favored industries that provided campaign funding. This act reversed the projection towards higher tariffs as the president was empowered to work in cooperation with international governments for mutual trade tariff reduction between America and international governments.
 
 ## WW2 era and the establishment of the 1947 GATT
 
