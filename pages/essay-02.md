@@ -22,7 +22,6 @@ Over the next 150 years, various tariff acts would follow. A partial listing inc
 {% include feature/image.html filename="princinples-of-the-republican-party-1888-daniel-hagerman.jpg" alt="Principles of Republican Party" link="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/princinples-of-the-republican-party-1888-daniel-hagerman.jpg" %}
 
 Tyler Halloran, in the article titled “A Brief History of Tariffs in the United States and the Dangers of their Use Today” (2019)[^1], suggests that the Tariff Act of 1789 had two major purposes. Its first was to promote free trade by placing France and Great Britain on an equal footing when it came to shipping, manufacturing and raw products delivered to American ports. The second was to raise revenue for the federal government of the United States. Alexander Hamilton was a strong supporter of the 1789 Tariff Act as that he viewed the act as having a significant role in protecting the American manufacturing industries from foreign competition and promoting industrial growth over the long run. However, as Halloran indicates, due to the industrial expansion that occurred in the late 1800’s and the adoption of the income tax in the early 1900’s, this had “undermined the historical justification of the 1789 tariff.” (Halloran).
-
 ## The Embargo Act of 1807
 
 {% include feature/pdf.html filename="The 1807-1809 Embargo Against Great Britain.pdf" caption="1807-1809 Embargo against Great Britain" link="https://www-jstor-org.uidaho.idm.oclc.org/stable/2120129?seq=1" %}
