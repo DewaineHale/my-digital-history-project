@@ -41,7 +41,11 @@ The Tariff Act of 1828 had much controversy between Northern and Southern states
 
 ## The Underwood Tariff of 1913
 
-{% include feature/pdf.html filename="Underwood Tariff.pdf" caption="The day book Oct 4, 1913" link="https://chroniclingamerica.loc.gov/lccn/sn83045487/1913-10-04/ed-2/seq-23/#date1=1900&index=10&rows=20&words=tariff+Underwood&searchType=basic&sequence=0&state=&date2=1915&proxtext=underwood+tariff&y=12&x=18&dateFilterType=yearRange&page=1" %}
+The Underwood Tariff of 1913 was sponsored by Alabama representative Oscar Underwood. Its main purpose was to reduce taxes on manufactured goods and eliminate duties on most raw materials. To recover the revenue lost, the act levied a graduated income tax made possible by the ratification of the sixteenth amendment which gave congress the power to collect income taxes from whichever source derived without the appointment among the states. 
+
+{% include feature/pdf.html filename="Underwood Tariff.pdf" caption="The Day Book Oct 4, 1913" link="https://chroniclingamerica.loc.gov/lccn/sn83045487/1913-10-04/ed-2/seq-23/#date1=1900&index=10&rows=20&words=tariff+Underwood&searchType=basic&sequence=0&state=&date2=1915&proxtext=underwood+tariff&y=12&x=18&dateFilterType=yearRange&page=1" %}
+
+In the newspaper “The Day Book”, published October 4, 1913, the author writes about the benefits that this new tariff will have for the average consumer. The tariff, which reduced the duties on most imports, lowered the rates from around 46% to 18%. This allowed the American industry to compete internationally and as a result, the average consumer prices dropped significantly. This was very popular among the people because it provided higher quality goods at lower pricing.
 
 ## The Great Depression and resulting Smoot-Hawley Tariff Act
 
