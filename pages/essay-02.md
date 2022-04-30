@@ -22,13 +22,10 @@ The history of tariffs in the United States, starts to develop when George Washi
 
 {% include feature/pdf.html filename="Tariff of 1789.pdf" caption="Tariff Act of 1789" link="https://www.jstor.org/stable/pdf/1819831.pdf" %}
 
-
+In the journal article titled “Protective Purpose of the Tariff Act of 1789” by William Hill, the author describes the tariff as a revenue measure against England, who were trying to create a monopoly of commodities used for American imports. This angered Americans because they wanted the freedom of creating commodities domestically instead of importing from England. In response, Congress decided to take protective measures to protect this freedom by creation of the tariff act. The Tariff Act of 1789 was created as an urgent temporary revenue measure until a comprehensive system could be arranged. The duties on imported commodities were limited to those which were readily produced in the United States and the list continued to be developed as additional tariffs were created.
 
 
 Over the next 150 years, various tariff acts would follow. A partial listing includes **The Embargo Act of 1807**, **The Tariff of Abominations of 1828**, **The Underwood Tariff of 1913** and **Smoot Hawley Tariff of 1930**.
-
-
-
 
 ## The Embargo Act of 1807
 
