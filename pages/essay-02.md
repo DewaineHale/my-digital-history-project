@@ -16,7 +16,13 @@ Throughout history, international trade has always been a relevant matter. This 
 ## History of tariffs in United States
 
 With international trade, tariffs have a long-lasting impact primarily on consumers since tariffs are typically used to restrict imports. This results in the increase of the price of goods and services purchased from another country, which makes them less appealing to domestic consumers. 
-The history of tariffs in the United States, starts to develop when George Washington first signed into law the Tariff Act of 1789, not long after the Boston Tea Party, which was a mercantile protest against the British East India Company for selling tea from China in American colonies without paying additional import taxes. The act was a key piece of legislation in promoting industrial growth, contributing to 95% of federal government revenue. 
+The history of tariffs in the United States, starts to develop when George Washington first signed into law the Tariff Act of 1789, not long after the Boston Tea Party, which was a mercantile protest against the British East India Company for selling tea from China in American colonies without paying additional import taxes. The act was a key piece of legislation in promoting industrial growth, contributing to 95% of federal government revenue.
+
+## The Tariff Act of 1789
+
+{% include feature/pdf.html filename="Tariff of 1789.pdf" caption="Tariff Act of 1789" link="https://www.jstor.org/stable/pdf/1819831.pdf" %}
+
+
 Over the next 150 years, various tariff acts would follow. A partial listing includes **The Embargo Act of 1807**, **The Tariff of Abominations of 1828**, **The Underwood Tariff of 1913** and **Smoot Hawley Tariff of 1930**.
 
 {% include feature/image.html filename="princinples-of-the-republican-party-1888-daniel-hagerman.jpg" alt="Principles of Republican Party" link="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/princinples-of-the-republican-party-1888-daniel-hagerman.jpg" %}
