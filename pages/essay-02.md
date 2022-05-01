@@ -32,7 +32,7 @@ Over the next 150 years, additional tariff acts would follow. Some of these incl
 
 {% include feature/pdf.html filename="The 1807-1809 Embargo Against Great Britain.pdf" caption="1807-1809 Embargo against Great Britain" link="https://www-jstor-org.uidaho.idm.oclc.org/stable/2120129?seq=1" %}
 
-In the Journal article titled “The 1807-1809 Embargo Against Great Britain” by Jeffery A. Frankel, the author describes the 1807 embargo act as an attempt by President Thomas Jefferson to prohibit American ships from trading in all foreign ports.  The purpose of this act was to persuade Great Britain and France to abandon their policies of seizing neutral American ships. The embargo was precipitated by Napoleon Bonaparte’s 1806 Berlin Decree, which forbade the import of British goods into European countries dependent upon France. Jefferson hoped that the Embargo act of 1807 would prevent a war between the U.S. and Great Britain. However, the Embargo Act of 1807 would eventually fail and in 1809, after Federalist Party opposition to Jefferson the embargo was abolished. As Frankel implies in the article, the commonly thought reason for the embargo failure was due to lack of economic power from the United States and that the implications of the embargo were much greater to the U.S. than Great Britain. Frankel’s argument is that the historical data, however shows that the United States was in a better economic condition under the embargo in comparison to Great Britain and that the reason for the failure of the embargo was for political discourse between Federalists and Republicans. 
+In the Journal article titled “The 1807-1809 Embargo Against Great Britain [^2]” by Jeffery A. Frankel, the author describes the 1807 embargo act as an attempt by President Thomas Jefferson to prohibit American ships from trading in all foreign ports.  The purpose of this act was to persuade Great Britain and France to abandon their policies of seizing neutral American ships. The embargo was precipitated by Napoleon Bonaparte’s 1806 Berlin Decree, which forbade the import of British goods into European countries dependent upon France. Jefferson hoped that the Embargo act of 1807 would prevent a war between the U.S. and Great Britain. However, the Embargo Act of 1807 would eventually fail and in 1809, after Federalist Party opposition to Jefferson the embargo was abolished. As Frankel implies in the article, the commonly thought reason for the embargo failure was due to lack of economic power from the United States and that the implications of the embargo were much greater to the U.S. than Great Britain. Frankel’s argument is that the historical data, however shows that the United States was in a better economic condition under the embargo in comparison to Great Britain and that the reason for the failure of the embargo was for political discourse between Federalists and Republicans. 
 
 ## The Tariff of Abominations of 1828
 
@@ -105,7 +105,7 @@ International trade continues to be an important topic even after the 20th centu
 
 [^1]:William Hill, *Protective Purpose of the Tariff Act of 1789* (Journal of Political Economy, 1893)
 
-[^2]:David A. Lake, *Power, Protection, and Free Trade* (New York:  Cornell University Press, 1988)
+[^2]:Jeffrey A. Frankel, *The 1807-1809 Embargo Against Great Britain* (Journal of Economic History, 1982)
 
 [^3]:Francine McKenzie, *Planning in Cold War Europe* (Berlin: De Gruyter Publishing, 2018)
 
