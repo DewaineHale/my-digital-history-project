@@ -78,7 +78,7 @@ The Reciprocal Trade Agreement Act (RTAA) was enacted in 1934 as an amendment to
 
 {% include feature/pdf.html filename="Evening Star 1936.pdf" caption="Evening Star newspaper 1936" link="https://chroniclingamerica.loc.gov/data/batches/dlc_1iche_ver01/data/sn83045462/00280602772/1936072601/0350.pdf" %}
 
-In the article titled “Reciprocal Trade Pact Results Indicate Boost to Commerce [8]”, which appeared in the Sunday Star newspaper dated July 1936, the writer describes how the Reciprocal Trade Act has improved the economic situation in the U.S. as the act is proving to be successful in stimulating increases in foreign export and import activities by mutual reduction of trade tariffs.
+In the article titled “Reciprocal Trade Pact Results Indicate Boost to Commerce [^8]”, which appeared in the Sunday Star newspaper dated July 1936, the writer describes how the Reciprocal Trade Act has improved the economic situation in the U.S. as the act is proving to be successful in stimulating increases in foreign export and import activities by mutual reduction of trade tariffs.
 
 This pattern for tariff reduction is the precursor to the 1947 General Agreements on Tariffs and Trade (GATT), an international trade agreement signed by twenty-three countries, including Canada.
 
