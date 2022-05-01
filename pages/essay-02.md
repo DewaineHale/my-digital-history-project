@@ -62,7 +62,7 @@ In desperation, the American people turned to President Herbert Hoover for poten
 
 {% include feature/pdf.html filename="Robber Tariff.pdf" caption="Indianapolis Times newspaper June 1930" link="https://chroniclingamerica.loc.gov/lccn/sn82015313/1930-06-13/ed-1/seq-1/#date1=05%2F30%2F1930&index=9&date2=06%2F30%2F1930&searchType=advanced&language=&sequence=1&words=Hawley+Smoot+Smoot-Hawley&proxdistance=5&state=&rows=20&ortext=&proxtext=&phrasetext=smoot-hawley&andtext=&dateFilterType=range&page=1" %}
 
-In the newspaper article titled “Robber Tariff Passed By Senate”, the writer describes the high level controversy over the Smoot-Hawley Tariff Act. As the writer indicates, the primary objection to the act was raised by farm Republicans and Democrats who claimed that the act fails to protect agriculture and farmers since the increased agriculture duties will be ineffective as industrial duties will only create additional burden for the farmers.
+In the newspaper article titled “Robber Tariff Passed By Senate”, the writer describes the high level controversy over the Smoot-Hawley Tariff Act. As the writer indicates, the primary objection to the act was raised by farm Republicans and Democrats who claimed that the act fails to protect agriculture and farmers since the increased agriculture duties will be ineffective and that industrial duties will only create additional burden for the farmers.
 
 
 {% include feature/pdf.html filename="Nogales International newspaper.pdf" caption="Smoot-Hawley Tariff Act Editorial" link="https://chroniclingamerica.loc.gov/lccn/sn96060774/1932-08-13/ed-1/seq-2/" %}
@@ -74,7 +74,7 @@ As a result of the Smoot-Hawley Tariff Act, many countries enacted their own res
 
 ## Reciprocal Trade Agreements Act
 
-The Reciprocal Trade Agreement Act (RTAA) was enacted in 1934 as an amendment to the 1930 Smoot-Hawley Tariff Act by President Franklin Roosevelt and resulted in significant policy change by giving the president more power in tariff making authority and reducing congressional control of trade policy to reduce the influence of favored industries that provided campaign funding. This act reversed the projection towards higher tariffs as the president was empowered to work in cooperation with international governments for mutual trade tariff reduction between America and international governments.
+The Reciprocal Trade Agreement Act (RTAA) was enacted in 1934 as an amendment to the 1930 Smoot-Hawley Tariff Act by President Franklin Roosevelt and resulted in significant policy change by giving the president more power in tariff making authority and reducing congressional control of trade policy to reduce the influence of favored industries that provided campaign funding. This act reversed the projection towards higher tariffs as the president was empowered to work in cooperation with international countries for mutual trade tariff reduction between America and international governments.
 
 {% include feature/pdf.html filename="Evening Star 1936.pdf" caption="Evening Star newspaper 1936" link="https://chroniclingamerica.loc.gov/data/batches/dlc_1iche_ver01/data/sn83045462/00280602772/1936072601/0350.pdf" %}
 
