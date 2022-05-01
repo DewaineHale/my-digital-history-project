@@ -16,7 +16,7 @@ Throughout history, international trade has always been a relevant matter. This 
 ## History of tariffs in United States
 
 With international trade, tariffs have a long-lasting impact primarily on consumers since tariffs are typically used to restrict imports. This results in the increase of the price of goods and services purchased from another country, which makes them less appealing to domestic consumers. 
-The history of tariffs in the United States, starts to develop when George Washington first signed into law the **Tariff Act of 1789**, not long after the Boston Tea Party, which was a mercantile protest against the British East India Company for selling tea from China in American colonies without paying additional import taxes. The act was a key piece of legislation in promoting industrial growth, contributing to 95% of federal government revenue.
+The history of tariffs in the United States, starts to develop when George Washington first signed into law the Tariff Act of 1789, not long after the Boston Tea Party, which was a mercantile protest against the British East India Company for selling tea from China in American colonies without paying additional import taxes. The act was a key piece of legislation in promoting industrial growth, contributing to 95% of federal government revenue.
 
 ## The Tariff Act of 1789
 
@@ -26,7 +26,7 @@ In the journal article titled “Protective Purpose of the Tariff Act of 1789”
 
 
 
-Over the next 150 years, additional tariff acts would follow. Some of these include **The Embargo Act of 1807**, **The Tariff of Abominations of 1828**, **The Underwood Tariff of 1913** and **Smoot Hawley Tariff of 1930**.
+Over the next 150 years, additional tariff acts would follow. Some of these include The Embargo Act of 1807, The Tariff of Abominations of 1828, The Underwood Tariff of 1913 and Smoot Hawley Tariff of 1930.
 
 ## The Embargo Act of 1807
 
@@ -70,7 +70,7 @@ In the newspaper article titled “Robber Tariff Passed By Senate”, the writer
 In the Nogales International Editorial published August 13, 1932, the editorial titled “Smoot-Hawley Tariff Act”, focuses on the Imperial Conference at Ottawa, which was the British Empire Economic Conference to discuss The Great Depression and associated trade restrictions. In the article it is implied that the concept of “imperial preference” will be enacted and will result in discrimination against American manufacturers exports of essential raw materials such as coal, steel and tobacco, which would further reduce the amount of foreign commerce and any increase in the future will be lost. This article is one example of the divide between Republican and Democrat parties over international trade policy. Republicans in general favored continued high import tariffs since they proposed that this would help to save American manufacturers. Democrats argued that higher tariffs were not the right solution and that America should instead try to work cooperatively with other countries for international trade.
 
 
-As a result of the Smoot-Hawley Tariff Act, many countries enacted their own restrictive tariffs for imports, which worsened the Great Depression.  Four years after the passing of the Smoot-Hawley Tariff Act, the **Reciprocal Trade Agreements Act** was created to try and alleviate the problem.
+As a result of the Smoot-Hawley Tariff Act, many countries enacted their own restrictive tariffs for imports, which worsened the Great Depression.  Four years after the passing of the Smoot-Hawley Tariff Act, the Reciprocal Trade Agreements Act was created to try and alleviate the problem.
 
 ## Reciprocal Trade Agreements Act
 
@@ -80,7 +80,7 @@ The Reciprocal Trade Agreement Act (RTAA) was enacted in 1934 as an amendment to
 
 In the article titled “Reciprocal Trade Pact Results Indicate Boost to Commerce”, which appeared in the Sunday Star newspaper dated July 1936, the writer describes how the Reciprocal Trade Act has improved the economic situation in the U.S. as the act is proving to be successful in stimulating increases in foreign export and import activities by mutual reduction of trade tariffs.
 
-This pattern for tariff reduction is the precursor to the **1947 General Agreements on Tariffs and Trade (GATT)**, an international trade agreement signed by twenty-three countries, including Canada.
+This pattern for tariff reduction is the precursor to the 1947 General Agreements on Tariffs and Trade (GATT), an international trade agreement signed by twenty-three countries, including Canada.
 
 ## WW2 era and the establishment of the 1947 GATT
 
