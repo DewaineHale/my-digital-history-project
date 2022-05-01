@@ -88,8 +88,8 @@ Francine McKenzie, in the book “Planning In Cold War Europe” (2018)[^3], sta
 
 {% include feature/pdf.html filename="GATT and Cold War.pdf" caption="GATT and the Cold War" link="https://www-jstor-org.uidaho.idm.oclc.org/stable/pdf/26922776.pdf?refreqid=excelsior%3A0e9c779b9649763cc0ca2c916687b6f1&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&origin=" %}
 
+In the journal article titled “GATT and the Cold War”, by Francine McKenzie, the author describes how the General Agreements on Tariffs and Trade (GATT) was initially intended as a provisional agreement that would be succeeded by the International Trade Organization. However, McKenzie points out that that the International Trade Organization was never established due to complicated reasons. As a result, the GATT was the main arbiter of commercial relations for nearly half a century, until it was incorporated into the World Trade Organization in 1995. The GATT’s main goal was to define and enforce rules of free trade and coordinate negotiations that were aimed at lowering tariffs and removing other trade barriers. The author also describes how the onset of the Cold War meant that the GATT operated in a world much different than the writers had imagined of the post war time.
 
-After the Cold War, the GATT transitioned into a global organization known as the World Trade Organization (WTO) which came into effect on January 1st, 1995. As of October 2020, 164 countries were members of the WTO and 23 countries were in the process of joining.
 
 {% include feature/image.html filename="World_Trade_Organization-Logo.wine.png" alt="WTO 2" width="50" %}
 
