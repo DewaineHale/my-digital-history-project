@@ -103,7 +103,7 @@ International trade continues to be an important topic even after the 20th centu
 
 ## Notes
 
-[^1]:Tyler Halloran, *A Brief History of Tariffs in the United States and the Dangers of their Use Today* (Fordham Journal of Corporate and Financial Law, 2019)
+[^1]:William Hill, *Protective Purpose of the Tariff Act of 1789* (Journal of Political Economy, 1893)
 
 [^2]:David A. Lake, *Power, Protection, and Free Trade* (New York:  Cornell University Press, 1988)
 
