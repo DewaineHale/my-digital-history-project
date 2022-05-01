@@ -78,6 +78,10 @@ The Reciprocal Trade Agreement Act (RTAA) was enacted in 1934 as an amendment to
 
 {% include feature/pdf.html filename="Evening Star 1936.pdf" caption="Evening Star newspaper 1936" link="https://chroniclingamerica.loc.gov/data/batches/dlc_1iche_ver01/data/sn83045462/00280602772/1936072601/0350.pdf" %}
 
+In the article titled “Reciprocal Trade Pact Results Indicate Boost to Commerce”, which appeared in the Sunday Star newspaper dated July 1936, the writer describes how the Reciprocal Trade Act has improved the economic situation in the U.S. as the act is proving to be successful in stimulating increases in foreign export and import activities by mutual reduction of trade tariffs.
+
+This pattern for tariff reduction is the precursor to the 1947 General Agreements on Tariffs and Trade (GATT), an international trade agreement signed by twenty-three countries, including Canada.
+
 ## WW2 era and the establishment of the 1947 GATT
 
 Francine McKenzie, in the book “Planning In Cold War Europe” (2018)[^3], states that the purpose of the GATT was to promote trade liberalization by lowering tariffs. As part of the agreement, each member of the GATT was expected to conduct equal trade with other participating countries thus removing trade discrimination. In addition, the GATT significantly reduced tariffs on industrial goods from forty percent in 1947 to less than five percent by 1993. The GATT also played an important role during the Cold war, which began after WWII. Bruce W. Wilkinson, in the article “General Agreements on Tariffs and Trade (GATT)”,(2006)[^4] states that this agreement had “helped the U.S.-led capitalist west spread its influence by liberalizing trade through multilateral trade agreements.” (Wilkinson). Creating these trade agreements allowed western nations to strengthen their global influence as they were facing the growing threat of communism during the cold war. 
