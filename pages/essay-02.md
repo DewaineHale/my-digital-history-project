@@ -83,13 +83,12 @@ In the article titled “Reciprocal Trade Pact Results Indicate Boost to Commerc
 This pattern for tariff reduction is the precursor to the 1947 General Agreements on Tariffs and Trade (GATT), an international trade agreement signed by twenty-three countries, including Canada.
 
 ## WW2 era and the establishment of the 1947 GATT
-
-Francine McKenzie, in the book “Planning In Cold War Europe” (2018)[^3], states that the purpose of the GATT was to promote trade liberalization by lowering tariffs. As part of the agreement, each member of the GATT was expected to conduct equal trade with other participating countries thus removing trade discrimination. In addition, the GATT significantly reduced tariffs on industrial goods from forty percent in 1947 to less than five percent by 1993. The GATT also played an important role during the Cold war, which began after WWII. Bruce W. Wilkinson, in the article “General Agreements on Tariffs and Trade (GATT)”,(2006)[^4] states that this agreement had “helped the U.S.-led capitalist west spread its influence by liberalizing trade through multilateral trade agreements.” (Wilkinson). Creating these trade agreements allowed western nations to strengthen their global influence as they were facing the growing threat of communism during the cold war. 
-
+ 
 {% include feature/pdf.html filename="GATT and Cold War.pdf" caption="GATT and the Cold War" link="https://www-jstor-org.uidaho.idm.oclc.org/stable/pdf/26922776.pdf?refreqid=excelsior%3A0e9c779b9649763cc0ca2c916687b6f1&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&origin=" %}
 
 In the journal article titled “GATT and the Cold War”, by Francine McKenzie, the author describes how the General Agreements on Tariffs and Trade (GATT) was initially intended as a provisional agreement that would be succeeded by the International Trade Organization. However, McKenzie points out that that the International Trade Organization was never established due to complicated reasons. As a result, the GATT was the main arbiter of commercial relations for nearly half a century, until it was incorporated into the World Trade Organization in 1995. The GATT’s main goal was to define and enforce rules of free trade and coordinate negotiations that were aimed at lowering tariffs and removing other trade barriers. The author also describes how the onset of the Cold War meant that the GATT operated in a world much different than the writers had imagined of the post war time.
 
+## World Trade Organization of 1995
 
 {% include feature/image.html filename="World_Trade_Organization-Logo.wine.png" alt="WTO 2" width="50" %}
 
