@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Heading One;Heading Two;Heading Three;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;History of tariffs in United States;The Tariff Act of 1789;The Embargo Act of 1807;The Tariff of Abominations of 1828;The Underwood Tariff of 1913;The Great Depression and resulting Smoot-Hawley Tariff Act;Reciprocal Trade Agreements Act of 1934;WW2 era and the establishment of the 1947 GATT;World Trade Organization of 1995;Conclusion;Notes" %}
 
 # The Historical Significance of International Trade
 
@@ -72,7 +72,7 @@ In the Nogales International Editorial published August 13, 1932, the editorial 
 
 As a result of the Smoot-Hawley Tariff Act, many countries enacted their own restrictive tariffs for imports, which worsened the Great Depression.  Four years after the passing of the Smoot-Hawley Tariff Act, the Reciprocal Trade Agreements Act was created to try and alleviate the problem.
 
-## Reciprocal Trade Agreements Act
+## Reciprocal Trade Agreements Act of 1934
 
 The Reciprocal Trade Agreement Act (RTAA) was enacted in 1934 as an amendment to the 1930 Smoot-Hawley Tariff Act by President Franklin Roosevelt and resulted in significant policy change by giving the president more power in tariff making authority and reducing congressional control of trade policy to reduce the influence of favored industries that provided campaign funding. This act reversed the projection towards higher tariffs as the president was empowered to work in cooperation with international countries for mutual trade tariff reduction between America and international governments.
 
